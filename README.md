@@ -10,7 +10,21 @@ I am currently learning about AI on my own and exploring various topics related 
 
 ![Thuy's github stats](https://github-readme-stats-thuylt185411.vercel.app/api?username=Thuylt185411&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="-">
+<a href="linkrepo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo=anki&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo= namerepo &theme=radical" />
 </a>    
+<a href="linkrepo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo= namerepo &theme=merko" />
+</a>
+
+<a href="linkrepo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo=namerepo&theme=gruvbox" />
+</a>    
+<a href="linkrepo">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo=namerepo&theme=dark" />
+</a>
+
