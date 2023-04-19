@@ -12,7 +12,7 @@ I am currently learning about AI on my own and exploring various topics related 
 
 <a href="linkrepo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo= namerepo &theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Thuylt185411&repo=https://github.com/Thuylt185411/OCR_excercise namerepo &theme=radical" />
 </a>    
 <a href="linkrepo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
